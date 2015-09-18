@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1385320478 source:c:\users\pappy\documents\programming in c\halp\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1441256871 source:c:\users\pappy\documents\programming in c\halp\ex3_1.c
+	<stdio.h>
+
+1441260014 source:c:\users\pappy\documents\programming in c\halp\ex3_2.c
+	<stdio.h>
+
+1441258025 source:c:\users\pappy\documents\programming in c\halp\ex3_3.c
+	<stdio.h>
+
+1441259666 source:c:\users\pappy\documents\programming in c\halp\ex3_4.c
+	<stdio.h>
+
+1441259712 source:c:\users\pappy\documents\programming in c\halp\ex3_5.c
+	<stdio.h>
+

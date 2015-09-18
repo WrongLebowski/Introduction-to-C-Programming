@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1441327277 source:c:\users\pappy\documents\programming in c\ch3-ex4\ch3-ex4\ch3-ex4.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
